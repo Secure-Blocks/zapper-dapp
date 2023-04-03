@@ -1,0 +1,20 @@
+.message-style{
+    position: relative !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+
+    color: rgba(149,0,255,1) !important;
+    font-size: 30px;
+    font-weight: 700;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.metamask-logo{
+    position: relative;
+    width: 50px;
+    height: 50px;
+}

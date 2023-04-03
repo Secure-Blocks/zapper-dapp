@@ -1,0 +1,9 @@
+.WithdrawButton-position{
+    position: relative !important;
+    margin-top: 40px !important;
+}
+
+.WithdrawButton-size-matic{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}

@@ -1,0 +1,14 @@
+.ButtonsActions-position{
+    position: relative !important;
+    margin-top: 50px !important;
+}
+
+.ButtonsActions-size-matic{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.ButtonsActions-size-wmatic{
+    width: 40% !important;
+    margin: 5px !important;
+}

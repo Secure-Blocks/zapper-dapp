@@ -1,0 +1,31 @@
+.Panel-size{
+    position: relative !important;
+    width: 50% !important;
+    margin-top: 150px !important;
+}
+
+.effect-WalletConnected{
+    animation: move-WalletConnected 1s ease-out;
+}
+
+.effect-WithoutWallet{
+    animation: move-WithoutWallet 1s ease-out;
+}
+
+@keyframes move-WalletConnected {
+    from {
+      transform : translateX(-30px);
+    }
+    to {
+      transform : translateX(0px);
+    }
+}
+
+@keyframes move-WithoutWallet {
+    from {
+      transform : translateX(-30px);
+    }
+    to {
+      transform : translateX(0px);
+    }
+}
